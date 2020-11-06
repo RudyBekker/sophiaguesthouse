@@ -1,0 +1,4 @@
+# Sitemap is also available on /sitemap.xml
+Sitemap: https://www.sophiaguesthouse.co.za/sitemap.xml
+User-agent: *
+
